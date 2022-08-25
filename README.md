@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns I use: she/her
 - 🐝 Ask me about bees, dog psychology, food forests, and gardening with native plants
 
-I'm on the web at [hillaryjeffrey.com](https://www.hillaryjeffrey.com) and [evilhillary.com](https://www.evilhillary.com) - possibly evil, definitely a Hillary.
+I'm on the web at [evilhillary.com](https://www.evilhillary.com) - possibly evil, definitely a Hillary.
 
 [![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=hillaryj&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
