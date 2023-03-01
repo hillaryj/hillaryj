@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryj)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-- ⚡ I enjoy making processes work better for people - have computers do what computers are good at for great good!
-- 📡 I worked in govtech 2010-2021, including open-source work with [cfpb](github.com/cfpb/), [cloud-gov](https://github.com/cloud-gov/) in [18F/TTS](https://github.com/18F) and [cisagov](https://github.com/cisagov) - check out our all-open-source work!
-- 😄 Pronouns I use: she/her
+- ⚡ I enjoy making processes work better for people. Have computers do what computers are good at, for great good!
+- 📡 I worked in govtech for 11 years, including open-source work with [cfpb](github.com/cfpb/), [cloud-gov](https://github.com/cloud-gov/) in [18F/TTS](https://github.com/18F) and [cisagov](https://github.com/cisagov). Check out our all-open-source work!
+- 😄 Pronouns I use: she/her, they/them
 - 🐝 Ask me about bees, dog psychology, food forests, and gardening with native plants
 
 I'm on the web at [evilhillary.com](https://www.evilhillary.com) - possibly evil, definitely a Hillary.
